@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #1f242d;
+    color: #fff;
+}
+
+.titre{
+    align-items: center;
+    padding: 15px;
+    margin: 20px;
+    margin-bottom: 20px;
+}
+
+section .soustitre1, .soustitre2{
+    display: grid;
+    text-align: center;
+    justify-content: center;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+}

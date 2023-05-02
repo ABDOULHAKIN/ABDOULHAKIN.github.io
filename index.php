@@ -14,8 +14,8 @@
         <nav class="navbar">
             <a href="#" class="active" style = "--i:1;">Acceuil</a>
             <a href="#" style = "--i:2;">Mon parcours</a>
-            <a href="/lien/realisation.html" style = "--i:3;">Mes réalisations</a>
-            <a href="/lien/contact.html" style = "--i:4;">Contactez-moi</a>
+            <a href="/lien/realisation.php" style = "--i:3;">Mes réalisations</a>
+            <a href="/lien/contact.php" style = "--i:4;">Contactez-moi</a>
         </nav>
     </header>
     <section class="home">

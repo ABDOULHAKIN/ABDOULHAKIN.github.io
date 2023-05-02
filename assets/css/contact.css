@@ -123,3 +123,12 @@ body{
         height: 200px;
     }
 }
+
+.titre-contact
+{
+    color: #fff;
+    display: grid;
+    position: relative;
+    text-align: center;
+    margin: 15px;
+}
